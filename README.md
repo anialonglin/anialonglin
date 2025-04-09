@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about **
 
 ## 🎓 About Me
 
-- 💼 Former Software Engineering Intern @ Sun Life & Manulife & CIBC 
+- 💼 Software Engineer Intern @ Sun Life & Manulife & CIBC 
 - 🧠 AI enthusiast with an eye toward ethical applications
-- 🗣 Fluent in English, speaks Chinese
+- 🗣 English & Chinese
 - 📸 Love photography, film, and hiking 
 
 ## 🌐 Let's Connect!
