@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about **
 ## 🌐 Let's Connect!
 
 - 🔗 [LinkedIn](www.linkedin.com/in/ania-lin)
-- 📫 Reach me at: anialin327@gmail.com
+- 📫 Reach me at: <a href="mailto:anialin327&#64;gmail&#46;com">anialin327&#64;gmail&#46;com</a>
 
 Thanks for stopping by — feel free to check out my repositories and drop a ⭐ if you find something cool!
 
