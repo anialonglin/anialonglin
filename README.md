@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ania
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about **software engineering**, **AI**, and **digital media**. I enjoy building accessible and thoughtful user experiences, automating everyday tasks, and exploring the intersections between technology and society.
+Welcome to my GitHub profile! I'm a Software Developer passionate about **software engineering**, **AI**, and **digital media**. I enjoy building accessible and thoughtful user experiences, automating everyday tasks, and exploring the intersections between technology and society.
 
 ## 🎓 About Me
 
@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about **
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ania-lin)
 - 📫 Reach me at: <a href="mailto:anialin327&#64;gmail&#46;com">anialin327&#64;gmail&#46;com</a>
+- 🚀 My Portfolio Website 
+👉 [Ania's World](https://aniaworld.vercel.app) 
 
 Thanks for stopping by — feel free to check out my repositories and drop a ⭐ if you find something cool!
 
