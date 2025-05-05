@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ania
 
-Welcome to my GitHub profile! I'm a Software Developer passionate about **software engineering**, **AI**, and **digital media**. I enjoy building accessible and thoughtful user experiences, automating everyday tasks, and exploring the intersections between technology and society.
+Welcome to my GitHub profile! I'm a Software Engineer passionate about **software engineering**, **AI**, and **user experience**.
 
 ## 🎓 About Me
 
